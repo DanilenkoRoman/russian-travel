@@ -8,20 +8,20 @@
     letter-spacing: 0.2em;
 }
 
-@media screen and (max-width: 1023px){
+@media screen and (max-width: 1024px){
     .place__url-heading {
         margin: 0;
     }
 }
 
-@media screen and (max-width: 767px){
+@media screen and (max-width: 768px){
     .place__url-heading {
         width: 388px;
         margin: 32px auto 0;
     }
 }
 
-@media screen and (max-width: 424px){
+@media screen and (max-width: 425px){
     .place__url-heading {
         max-width: 288px;
         margin: 32px auto 0;

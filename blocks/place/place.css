@@ -8,20 +8,20 @@
     margin: 0;
 }
 
-@media screen and (max-width: 1023px){
+@media screen and (max-width: 1024px){
     .place{
     margin: 0 auto 73px;
     }
 }
 
-@media screen and (max-width: 767px){
+@media screen and (max-width: 768px){
     .place {
         margin: 0 auto 30px;
         grid-template-columns: 420px;
     }
 }
 
-@media screen and (max-width: 424px){
+@media screen and (max-width: 425px){
     .place {
         margin: 0 auto 50px;
         grid-template-columns: 320px;

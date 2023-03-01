@@ -8,13 +8,13 @@
     list-style-type: none;
 }
 
-@media screen and (max-width: 767px){
+@media screen and (max-width: 768px){
     .intro__list{
         max-width: 420px;
     }
 }
 
-@media screen and (max-width: 424px){
+@media screen and (max-width: 425px){
     .intro__list{
         max-width: 288px;
     }

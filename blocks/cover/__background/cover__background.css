@@ -30,7 +30,7 @@
     opacity: 0.8;
 }
 
-@media screen and (max-width: 1279px){
+@media screen and (max-width: 1280px){
     .cover__background{
         width: 100vw;
         min-height: 62.5vw;

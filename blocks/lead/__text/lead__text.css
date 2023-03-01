@@ -10,14 +10,14 @@
     text-transform: uppercase;
 }
 
-@media screen and (max-width: 1023px){
+@media screen and (max-width: 1024px){
     .lead__text{
         margin-left: 24px;
     }
     
 }
 
-@media screen and (max-width: 424px){
+@media screen and (max-width: 425px){
     .lead__text{
         margin-left: 16px;
     }

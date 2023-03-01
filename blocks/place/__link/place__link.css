@@ -12,21 +12,21 @@
         opacity: 0.8;
 }
 
-@media screen and (max-width: 1023px){
+@media screen and (max-width: 1024px){
     .place__link{
         max-width: 352px;
         margin: 12px 0 0 0;
     }
 }
 
-@media screen and (max-width: 767px){
+@media screen and (max-width: 768px){
     .place__link{
         width: 388px;
         margin: 12px auto 0;
     }
 }
 
-@media screen and (max-width: 424px){
+@media screen and (max-width: 425px){
     .place__link{
         max-width: 288px;
         margin: 12px auto 0;
