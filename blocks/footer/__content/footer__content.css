@@ -2,7 +2,7 @@
     align-self: flex-end;
 }
 
-@media screen and (max-width: 425px){
+@media screen and (max-width: 320px){
     .footer__content{
         align-self: flex-start;
     }
