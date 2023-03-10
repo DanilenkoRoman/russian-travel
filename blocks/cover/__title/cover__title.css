@@ -2,7 +2,7 @@
     font-style: normal;
     font-weight: 900;
     font-size: 72px;
-    line-height: 1.1;
+    line-height: 1.05;
     max-width: 560px;
     position: relative;
     margin: 0;
@@ -10,8 +10,8 @@
 
 @media screen and (max-width: 768px){
     .cover__title {
-        font-size: 55px;
-        max-width: 420px;
+        font-size: 72px;
+        max-width: 560px;
     }
 }
 @media screen and (max-width: 320px){

@@ -35,5 +35,6 @@
     .lead__image{
         width: 320px;
         height: 200px;
+        margin-top: 40px;
     }
 }
