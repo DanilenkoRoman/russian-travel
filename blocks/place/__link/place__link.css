@@ -20,14 +20,14 @@
 
 @media screen and (max-width: 768px){
     .place__link{
-        width: 388px;
-        margin: 12px auto 0;
+        max-width: 388px;
+        margin: 0;
     }
 }
 
 @media screen and (max-width: 320px){
     .place__link{
         max-width: 288px;
-        margin: 12px auto 0;
+        margin: 12px 16px 0;
     }
 }

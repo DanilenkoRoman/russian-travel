@@ -10,13 +10,13 @@
 
 @media screen and (max-width: 1024px){
     .place{
-    margin: 0 auto 73px;
+    margin: 0 auto 80px;
     }
 }
 
 @media screen and (max-width: 768px){
     .place {
-        margin: 0 auto 30px;
+        margin: 0 auto 40px;
     }
 }
 
