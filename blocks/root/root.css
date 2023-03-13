@@ -1,5 +1,5 @@
-.root {
-    width: 1280px;
+.root{
+    max-width: 100%;
     -webkit-font-smoothing:antialiased;
     background-color: #2a2c2f;
     margin: 0 auto;
@@ -10,9 +10,8 @@
     padding-bottom: 24px;
 }
 
-@media screen and (max-width: 1280px) {
-    .root {
-        max-width: 100%;
+@media screen and (max-width: 1280px){
+    .root{
         padding: 0;
     }
 }
